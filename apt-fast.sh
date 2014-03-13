@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # apt-fast: fast download package Ubuntu
 # HSP Viet Nam
