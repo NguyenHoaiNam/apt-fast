@@ -1,4 +1,12 @@
-Shell Cài đặt apt-fast trêm Ubuntu
-========
+Hướng dẫn cài đặt apt-fast trên Ubuntu
+======================================
+Bước 1:
+sudo apt-get install git
 
-Install apt-fast. fast download Ubuntu
+Bước 2:
+git clone
+https://github.com/NamNT2002/apt-fast
+
+Bước 3:
+cd apt-fast
+sh apt-fast.sh
